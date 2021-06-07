@@ -28,7 +28,7 @@ const retweetLatest = () => {
         }
       });
     }
-  });
+  }); 
 };
 
 // Try to retweet something as soon as we run the program...
