@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mayeedwin/twitterbot"
+    "url": "https://github.com/creepy-pirate/creeperBot"
   },
   "keywords": [
     "bot",
     "twiiter bot"
   ],
-  "author": "Maye Edwin",
+  "author": "Deepak Singh",
   "license": "MIT",
   "dependencies": {
     "twit": "^2.2.11"
