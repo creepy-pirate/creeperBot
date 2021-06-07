@@ -4,6 +4,7 @@
   "description": "Twiiter Bot",
   "main": "./config.js",
   "scripts": {
+    "start" : "node bot.js"
     
   },
   "repository": {
